@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "reacttss3albumc4636a33": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s3c149eac4": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
